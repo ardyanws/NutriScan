@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CapstoneNutriScan</string>
+    <string name="get_started_text">Mulai Perjalanan Sehat Anda, Bersama NutriScan!</string>
+    <string name="web_client_id">96415428063-tilq7igv78h122tfbup0v7qpeh2ogmpq.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_1">Setting</string>
+    <string name="menu_2">Logout</string>
+    <string name="setting">Halaman pengaturan</string>
+    <string name="theme_mode">Mode gelap</string>
+    <string name="image_button">Anda menekan aksi button</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Gallery</string>
+    <string name="prediksi">Prediksi</string>
+</resources>

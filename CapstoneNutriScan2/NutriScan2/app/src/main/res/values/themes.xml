@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CapstoneNutriScan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6200EE</item>
+        <item name="colorPrimaryVariant">#FF3700B3</item>
+        <item name="colorAccent">#FF03DAC5</item>
+    </style>
+
+    <style name="Theme.YourLightTheme" parent="Base.Theme.CapstoneNutriScan" /> <!-- Ganti dengan nama yang diinginkan -->
+</resources>
